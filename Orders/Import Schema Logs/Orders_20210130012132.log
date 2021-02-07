@@ -1,0 +1,87 @@
+30.01.2021 14:21:32	This log contains information about the import schema operation into project 'Orders' on computer 'DESKTOP-3TDOV04' by user 'rosiu'.
+30.01.2021 14:21:33	Import of database schema has started.
+30.01.2021 14:21:39	Gathering database credentials
+30.01.2021 14:21:39	Gathering database options
+30.01.2021 14:21:39	Gathering generic database scoped configuration option
+30.01.2021 14:21:39	Gathering users
+30.01.2021 14:21:39	Gathering roles
+30.01.2021 14:21:39	Gathering application roles
+30.01.2021 14:21:39	Gathering role memberships
+30.01.2021 14:21:39	Gathering filegroups
+30.01.2021 14:21:39	Gathering full-text catalogs
+30.01.2021 14:21:39	Gathering assemblies
+30.01.2021 14:21:39	Gathering certificates
+30.01.2021 14:21:39	Gathering asymmetric keys
+30.01.2021 14:21:39	Gathering symmetric keys
+30.01.2021 14:21:39	Gathering encrypted symmetric keys
+30.01.2021 14:21:39	Gathering schemas
+30.01.2021 14:21:39	Gathering XML schema collections
+30.01.2021 14:21:39	Gathering user-defined data types
+30.01.2021 14:21:39	Gathering user-defined types
+30.01.2021 14:21:39	Gathering table types
+30.01.2021 14:21:39	Gathering unique keys for table types
+30.01.2021 14:21:39	Gathering primary keys for table types
+30.01.2021 14:21:39	Gathering indexes for table types
+30.01.2021 14:21:39	Gathering check constraints for table types
+30.01.2021 14:21:39	Gathering default constraints for table types
+30.01.2021 14:21:39	Gathering partition functions
+30.01.2021 14:21:39	Gathering partition schemes
+30.01.2021 14:21:39	Gathering functions
+30.01.2021 14:21:39	Gathering encrypted functions
+30.01.2021 14:21:39	Gathering aggregates
+30.01.2021 14:21:39	Gathering procedures
+30.01.2021 14:21:39	Gathering encrypted procedures
+30.01.2021 14:21:39	Gathering tables
+30.01.2021 14:21:39	Gathering primary keys
+30.01.2021 14:21:39	Gathering unique constraints
+30.01.2021 14:21:39	Gathering foreign keys
+30.01.2021 14:21:39	Gathering default constraints
+30.01.2021 14:21:39	Gathering check constraints
+30.01.2021 14:21:39	Gathering views
+30.01.2021 14:21:39	Gathering encrypted views
+30.01.2021 14:21:39	Gathering indexes
+30.01.2021 14:21:39	Gathering statistics
+30.01.2021 14:21:39	Gathering full-text index stoplists
+30.01.2021 14:21:39	Gathering search property lists
+30.01.2021 14:21:39	Gathering search properties
+30.01.2021 14:21:39	Gathering full-text indexes
+30.01.2021 14:21:39	Gathering column store indexes
+30.01.2021 14:21:39	Gathering spatial indexes
+30.01.2021 14:21:39	Gathering XML indexes
+30.01.2021 14:21:39	Gathering Selective XML indexes
+30.01.2021 14:21:39	Gathering encrypted triggers
+30.01.2021 14:21:39	Gathering triggers
+30.01.2021 14:21:39	Gathering encrypted and clr ddl triggers
+30.01.2021 14:21:39	Gathering ddl triggers
+30.01.2021 14:21:39	Creating edge constraints
+30.01.2021 14:21:39	Gathering synonyms
+30.01.2021 14:21:39	Gathering defaults
+30.01.2021 14:21:39	Gathering data constraint uddt bindings
+30.01.2021 14:21:39	Gathering rules
+30.01.2021 14:21:39	Gathering data constraint uddt bindings
+30.01.2021 14:21:39	Gathering message types
+30.01.2021 14:21:39	Gathering queues
+30.01.2021 14:21:39	Gathering contracts
+30.01.2021 14:21:39	Gathering services
+30.01.2021 14:21:39	Gathering event notifications
+30.01.2021 14:21:39	Gathering remote service bindings
+30.01.2021 14:21:39	Gathering broker priorities
+30.01.2021 14:21:39	Gathering signatures
+30.01.2021 14:21:39	Gathering data compression options
+30.01.2021 14:21:39	Gathering sequence types
+30.01.2021 14:21:39	Gathering security policies
+30.01.2021 14:21:39	Gather column encryption keys
+30.01.2021 14:21:39	Gathering column master keys
+30.01.2021 14:21:39	Gathering external data sources
+30.01.2021 14:21:39	Gathering external file formats
+30.01.2021 14:21:39	Gathering external tables
+30.01.2021 14:21:39	Gathering database permissions
+30.01.2021 14:21:39	Gathering extended properties
+30.01.2021 14:21:40	Gathering credentials
+30.01.2021 14:21:40	Gathering logins
+30.01.2021 14:21:40	Gathering server audits
+30.01.2021 14:21:41	Scanning project for duplicate elements
+30.01.2021 14:21:41	Finished duplicate element processing
+30.01.2021 14:21:41	Finished importing database.
+30.01.2021 14:21:41	A summary of the import was saved to the following location: C:\Users\rosiu\x\KarolinaGluza_6408\Orders\Import Schema Logs\Orders_20210130012132.log
+30.01.2021 14:21:41	Click Finish to continue...

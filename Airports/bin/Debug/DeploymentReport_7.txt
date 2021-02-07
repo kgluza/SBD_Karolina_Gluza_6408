@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Airports]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[airports].[countryName] is being dropped, data loss could occur.
+       The column [dbo].[airports].[stateCode] is being dropped, data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[Airports] (Table)
+
+** Supporting actions
+
+The column [dbo].[airports].[countryName] is being dropped, data loss could occur.
+The column [dbo].[airports].[stateCode] is being dropped, data loss could occur.
+The column Code on table [dbo].[Airports] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column CountryCode on table [dbo].[Airports] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Name on table [dbo].[Airports] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Airlines] (Table)
+       [dbo].[Airports] (Table)
+       [dbo].[Countries] (Table)
+       [dbo].[Discounts] (Table)
+       [dbo].[Flights] (Table)
+       [dbo].[Tickets] (Table)
+       [dbo].[TourOperators] (Table)
+       Foreign Key: unnamed constraint on [dbo].[Airports] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Discounts] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Flights] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Flights] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Flights] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Tickets] (Foreign Key)
+       [dbo].[Procedure1] (Procedure)
+
+** Supporting actions

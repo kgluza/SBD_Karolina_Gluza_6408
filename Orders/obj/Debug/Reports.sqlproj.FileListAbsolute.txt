@@ -1,0 +1,9 @@
+C:\Users\rosiu\x\KarolinaGluza_6408\Orders\bin\Debug\Reports.dacpac
+C:\Users\rosiu\x\KarolinaGluza_6408\Orders\bin\Debug\Orders.dll
+C:\Users\rosiu\x\KarolinaGluza_6408\Orders\bin\Debug\Orders.pdb
+C:\Users\rosiu\x\KarolinaGluza_6408\Orders\obj\Debug\Model.xml
+C:\Users\rosiu\x\KarolinaGluza_6408\Orders\obj\Debug\refactor.xml
+C:\Users\rosiu\x\KarolinaGluza_6408\Orders\obj\Debug\postdeploy.sql
+C:\Users\rosiu\x\KarolinaGluza_6408\Orders\obj\Debug\predeploy.sql
+C:\Users\rosiu\x\KarolinaGluza_6408\Orders\obj\Debug\Orders.dll
+C:\Users\rosiu\x\KarolinaGluza_6408\Orders\obj\Debug\Orders.pdb

@@ -1,0 +1,5 @@
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_LOT\bin\Debug\Tickets_LOT.dacpac
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_LOT\obj\Debug\Tickets_LOT.dll
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_LOT\obj\Debug\Tickets_LOT.pdb
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_LOT\bin\Debug\Tickets_LOT.dll
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_LOT\bin\Debug\Tickets_LOT.pdb

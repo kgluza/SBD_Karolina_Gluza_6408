@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Countries]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column CountryId in table [dbo].[Cities] is currently  NVARCHAR (2) NOT NULL but is being changed to  INT
+         NOT NULL. Data loss could occur.
+       The type for column ID in table [dbo].[Countries] is currently  NVARCHAR (2) NOT NULL but is being changed to  INT
+         IDENTITY (1, 1) NOT NULL. Data loss could occur.
+
+** User actions
+     Drop
+       [dbo].[FK_Cities_Countries] (Foreign Key)
+     Alter
+       [dbo].[Cities] (Table)
+     Table rebuild
+       [dbo].[Countries] (Table)
+     Create
+       [dbo].[FK_Cities_Countries] (Foreign Key)
+
+** Supporting actions
+
+The type for column CountryId in table [dbo].[Cities] is currently  NVARCHAR (2) NOT NULL but is being changed to  INT NOT NULL. Data loss could occur.
+The type for column ID in table [dbo].[Countries] is currently  NVARCHAR (2) NOT NULL but is being changed to  INT IDENTITY (1, 1) NOT NULL. Data loss could occur.
+

@@ -1,0 +1,5 @@
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_Lufthansa\bin\Debug\Tickets_Lufthansa.dacpac
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_Lufthansa\bin\Debug\Tickets_Lufthansa.dll
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_Lufthansa\bin\Debug\Tickets_Lufthansa.pdb
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_Lufthansa\obj\Debug\Tickets_Lufthansa.dll
+C:\Users\rosiu\x\KarolinaGluza_6408\Tickets_Lufthansa\obj\Debug\Tickets_Lufthansa.pdb
