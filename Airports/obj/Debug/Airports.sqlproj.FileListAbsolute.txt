@@ -8,3 +8,9 @@ C:\Users\rosiu\x\KarolinaGluza_6408\Airports\obj\Debug\Model.xml
 C:\Users\rosiu\x\KarolinaGluza_6408\Airports\obj\Debug\refactor.xml
 C:\Users\rosiu\x\KarolinaGluza_6408\Airports\obj\Debug\postdeploy.sql
 C:\Users\rosiu\x\KarolinaGluza_6408\Airports\obj\Debug\predeploy.sql
+C:\Users\rosiu\x\SBD_Karolina_Gluza_6408\Airports\bin\Debug\Airports.dacpac
+C:\Users\rosiu\x\SBD_Karolina_Gluza_6408\Airports\bin\Debug\Airports.dll
+C:\Users\rosiu\x\SBD_Karolina_Gluza_6408\Airports\bin\Debug\Airports.pdb
+C:\Users\rosiu\x\SBD_Karolina_Gluza_6408\Airports\obj\Debug\Airports.dll
+C:\Users\rosiu\x\SBD_Karolina_Gluza_6408\Airports\obj\Debug\Airports.pdb
+C:\Users\rosiu\x\SBD_Karolina_Gluza_6408\Airports\obj\Debug\Airports.sqlproj.AssemblyReference.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6ec5b87-f776-4b3f-a14e-97331caac8b5": {
+      "ProjectGuid": "a6ec5b87-f776-4b3f-a14e-97331caac8b5",
+      "DisplayName": "Airports",
+      "ColorIndex": 0
+    },
+    "0ac61e3b-e35b-4dc2-9c51-cdf8c5d0c79c": {
+      "ProjectGuid": "0ac61e3b-e35b-4dc2-9c51-cdf8c5d0c79c",
+      "DisplayName": "Tickets_LOT",
+      "ColorIndex": 1
+    },
+    "3d7cf3c6-ffc2-4b00-ac99-d6f3541de441": {
+      "ProjectGuid": "3d7cf3c6-ffc2-4b00-ac99-d6f3541de441",
+      "DisplayName": "Tickets_Lufthansa",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
